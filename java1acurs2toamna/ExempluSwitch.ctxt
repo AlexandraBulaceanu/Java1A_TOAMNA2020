@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ExempluSwitch
+comment0.text=\r\n\ Zilele\ saptamanii\ sunt\ numerotate\ de\ la\ 1\ la\ 7.\ Pentru\ valoarea\ unei\ variabile\ zi,\ \r\n\ se\ va\ afisa\ denumirea\ zilei\ respective.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
