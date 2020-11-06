@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pisica
+comment1.params=nume\ culoare\ varsta
+comment1.target=Pisica(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ \ \ \ Pisica()\ {\r\n\ \ \ \ \ \ \ \ System.out.println("Acesta\ este\ un\ constructor\ fara\ parametrii");\r\n}
+comment2.params=nume
+comment2.target=Pisica(java.lang.String)
+comment3.params=
+comment3.target=Pisica()
+comment4.params=
+comment4.target=void\ spuneMiau()
+numComments=5
