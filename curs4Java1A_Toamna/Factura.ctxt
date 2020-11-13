@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Factura
+comment1.params=
+comment1.target=java.lang.String\ getPlatitor()
+comment2.params=platitor
+comment2.target=void\ setPlatitor(java.lang.String)
+comment3.params=
+comment3.target=double\ getTotal()
+comment4.params=total
+comment4.target=void\ setTotal(double)
+comment5.params=
+comment5.target=boolean\ isPlatita()
+comment6.params=platita
+comment6.target=void\ setPlatita(boolean)
+numComments=7
