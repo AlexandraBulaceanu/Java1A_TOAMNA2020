@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cerc
+comment1.params=
+comment1.target=Cerc()
+comment2.params=raza
+comment2.target=Cerc(double)
+comment3.params=x\ y\ raza
+comment3.target=Cerc(int,\ int,\ double)
+comment4.params=
+comment4.target=double\ getArie()
+comment5.params=
+comment5.target=double\ getLungime()
+numComments=6
